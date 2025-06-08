@@ -1,0 +1,14 @@
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/bin/Debug/net8.0/10. Easy Examples
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/bin/Debug/net8.0/10. Easy Examples.deps.json
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/bin/Debug/net8.0/10. Easy Examples.runtimeconfig.json
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/bin/Debug/net8.0/10. Easy Examples.dll
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/bin/Debug/net8.0/10. Easy Examples.pdb
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.AssemblyInfoInputs.cache
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.AssemblyInfo.cs
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.csproj.CoreCompileInputs.cache
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.dll
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/refint/10. Easy Examples.dll
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.pdb
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/10. Easy Examples.genruntimeconfig.cache
+/Users/yusufemirhanoktay/RiderProjects/10. Easy Examples/10. Easy Examples/obj/Debug/net8.0/ref/10. Easy Examples.dll
